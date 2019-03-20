@@ -1,6 +1,6 @@
 
 <p align="center">
-  <a href="http://gulpjs.com">
+  <a href="https://imperihome.com">
     <img src="https://account.imperihome.com/assets/img/imperihome_logo_with_name.png">
   </a>
 </p>
